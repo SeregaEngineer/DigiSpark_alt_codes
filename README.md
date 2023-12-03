@@ -1,2 +1,2 @@
 # DigiSpark_alt_codes
-DigiSpark отправки символом через alt + NumPad без привязки к раскладке.
+DigiSpark  alt + NumPad без привязки к раскладке.
